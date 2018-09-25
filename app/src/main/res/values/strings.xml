@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PopularMoviesStage1</string>
+    <string name="base_url">https://api.themoviedb.org/3/discover/movie?</string>
+    <string name="sort">sort_by</string>
+    <string name="api">api_key</string>
+    <string name="releaseDate">Release date</string>
+    <string name="year">Year</string>
+    <string name="voteAverage">Vote average</string>
+    <string name="overview">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="title">Movie Title</string>
+
+    <string name="toolbar_title_main">Popular Movies</string>
+    <string name="toolbar_title_detail">Movie Detail</string>
+
+    <string name="popularity_sort">/movie/popular</string>
+    <string name="rating_sort">/movie/top_rated</string>
+
+
+    <string name="get">"GET"</string>
+
+    <string name="movieObject">movieObject</string>
+
+    <string name="BASE">"https://api.themoviedb.org/3/discover/movie?</string>
+    <string name="SORT">sort_by</string>
+
+    <string name="get_title">original_title</string>
+
+    <string name="trailer">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="author_name">Author Name</string>
+    <string name="sort_by_popularity">Sort by popularity</string>
+    <string name="sort_by_rating">Sort by rating</string>
+    <string name="display_favorites">Display favorites</string>
+    <string name="line_1">Line 1</string>
+</resources>
